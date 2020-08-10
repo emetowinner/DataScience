@@ -1,0 +1,22 @@
+Variable Definitions,,
+,French,English
+,Le dataset churn comprend 19 variables dont 15 variables numeriques et 04 variables categoriques.,The churn dataset includes 19 variables including 15 numeric variables and 04 categorical variables.
+user_id,,
+REGION,la localité de chaque client,the location of each client
+TENURE,la durée dans le reseau,duration in the network
+MONTANT,montant de recharge,top-up amount
+FREQUENCE_RECH,nombre de fois que le client a fait une recharge, number of times the customer refilled
+REVENUE,revenu mensuel de chaque client,monthly income of each client
+ARPU_SEGMENT,revenu sur 90 jours/3,income over 90 days / 3
+FREQUENCE,nombre de fois que client à fait un revenu,number of times the client has made an income
+DATA_VOLUME,nombre de connexions,number of connections
+ON_NET, appel inter expresso,inter expresso call
+ORANGE,appel vers orange,call to orange
+TIGO,appel vers Tigo,call to Tigo
+ZONE1,appel vers les zone1,call to zones1
+ZONE2,appel vers les zone2,call to zones2
+MRG, un client qui fait du vas,a client who is going
+REGULARITY,nombre de fois que le client est actif pendant 90 jours,number of times the client is active for 90 days
+TOP_PACK, les pack les plus activés,the most active packs
+FREQ_TOP_PACK,nombre de fois que le client a activé les packages top pack,number of times the client has activated the top pack packages
+CHURN,variable à predire - Target,variable to predict - Target
